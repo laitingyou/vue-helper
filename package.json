@@ -1,0 +1,11 @@
+{
+  "name": "vue-helper",
+  "version": "1.0.1",
+  "description": "> A Vue.js 2.0  components by laitingyou. ## Installation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "laitingyou",
+  "license": "ISC"
+}
